@@ -1,0 +1,8 @@
+﻿C:\itTools\VisualStudio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (grk-cw7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Render_Utils.cpp
+  main.cpp
+c:\users\neolo\desktop\cgp\cgp_1\src\main.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\neolo\desktop\cgp\cgp_1\src\main.cpp(293): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  cgp_1.vcxproj -> C:\Users\neolo\Desktop\CGP\cgp_1\Debug\cgp.exe
